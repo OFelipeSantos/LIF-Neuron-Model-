@@ -2,6 +2,9 @@
 
 This repository contains my implementation of a basic LIF neuron model as part of my self-study in computational neuroscience. I have been following at my own pace the Neuromatch Academy Python workshop in order to implement it. 
 
+How it's structured: 
+- Since this is following the NM tutorial, each exercise in the workshop is implemented in a cell in a Jupyter notebook and is accompanied by a markdown cell, breaking down the reason for the exercise and personal annotations. 
+
 Current features:
 - Membrane potential dynamics using the standard LIF equation
 - Euler integration for numerical updates
